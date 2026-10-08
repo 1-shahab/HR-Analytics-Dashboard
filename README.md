@@ -3,7 +3,7 @@
 This project is a comprehensive HR Analytics Dashboard built in Microsoft Excel. It focuses on visualizing employee data to understand key drivers of attrition, job satisfaction, and employee demographics.
 
 ## 📊 Dashboard Overview
-![Dashboard Preview](assets/Dashboard.webp)
+![Dashboard Preview](https://github.com/1-shahab/HR-Analytics-Dashboard/blob/main/assets/Screenshot%202026-10-05%20053405.png))
 
 ## 🎯 Key Objectives
 - To identify patterns and trends in employee attrition.
